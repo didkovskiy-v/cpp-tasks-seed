@@ -1,5 +1,6 @@
 #include <string>
 #include <iomanip>
+#include <vector>
 #include <lazycsv.hpp>
 
 #include "util.h"
